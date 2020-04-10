@@ -1,6 +1,6 @@
-<h4 align="center">
-  BeTheHero
-</h4>
+<p align="center">
+  <img alt="Be The Hero" src="https://github.com/silvaAlex/BeTheHero/blob/master/Frontend/src/assets/logo.svg"/>
+</p>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/silvaAlex/BeTheHero">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/silvaAlex/BeTheHero">
